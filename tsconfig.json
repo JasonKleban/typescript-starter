@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "lib": [ "es6" ],
+    "declaration": true,
+    "downlevelIteration": true,
+    "noEmitOnError": false,
+    "strict": true,
+    "outDir": "dist"
+  },
+  "include": [
+      "src"
+  ]
+}

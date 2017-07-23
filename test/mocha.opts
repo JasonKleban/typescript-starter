@@ -1,0 +1,4 @@
+--compilers ts:test/mocha-hook,tsx:test/mocha-hook
+--watch-extensions tsx,ts
+--reporter dot
+--recursive
